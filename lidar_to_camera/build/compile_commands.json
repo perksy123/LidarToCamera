@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/workspace/lidar_to_camera/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4  -g   -std=c++11 -o CMakeFiles/show_lidar_top_view.dir/src/show_lidar_top_view.cpp.o -c /home/workspace/lidar_to_camera/src/show_lidar_top_view.cpp",
+  "file": "/home/workspace/lidar_to_camera/src/show_lidar_top_view.cpp"
+},
+{
+  "directory": "/home/workspace/lidar_to_camera/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4  -g   -std=c++11 -o CMakeFiles/show_lidar_top_view.dir/src/structIO.cpp.o -c /home/workspace/lidar_to_camera/src/structIO.cpp",
+  "file": "/home/workspace/lidar_to_camera/src/structIO.cpp"
+},
+{
+  "directory": "/home/workspace/lidar_to_camera/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4  -g   -std=c++11 -o CMakeFiles/project_lidar_to_camera.dir/src/project_lidar_to_camera.cpp.o -c /home/workspace/lidar_to_camera/src/project_lidar_to_camera.cpp",
+  "file": "/home/workspace/lidar_to_camera/src/project_lidar_to_camera.cpp"
+},
+{
+  "directory": "/home/workspace/lidar_to_camera/build",
+  "command": "/usr/bin/c++   -isystem /usr/local/include/opencv4  -g   -std=c++11 -o CMakeFiles/project_lidar_to_camera.dir/src/structIO.cpp.o -c /home/workspace/lidar_to_camera/src/structIO.cpp",
+  "file": "/home/workspace/lidar_to_camera/src/structIO.cpp"
+}
+]
