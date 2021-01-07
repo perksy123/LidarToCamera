@@ -26,18 +26,6 @@ opencv2/imgproc.hpp
 structIO.hpp
 /home/workspace/lidar_to_camera/src/structIO.hpp
 
-/home/workspace/lidar_to_camera/src/structIO.cpp
-iostream
--
-fstream
--
-algorithm
--
-opencv2/highgui/highgui.hpp
--
-structIO.hpp
-/home/workspace/lidar_to_camera/src/structIO.hpp
-
 /home/workspace/lidar_to_camera/src/structIO.hpp
 stdio.h
 -
@@ -845,10 +833,6 @@ opencv2/imgcodecs.hpp
 /usr/local/include/opencv4/opencv2/opencv2/imgcodecs.hpp
 opencv2/videoio.hpp
 /usr/local/include/opencv4/opencv2/opencv2/videoio.hpp
-
-/usr/local/include/opencv4/opencv2/highgui/highgui.hpp
-opencv2/highgui.hpp
-/usr/local/include/opencv4/opencv2/highgui/opencv2/highgui.hpp
 
 /usr/local/include/opencv4/opencv2/imgcodecs.hpp
 opencv2/core.hpp
